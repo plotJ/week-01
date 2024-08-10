@@ -45,3 +45,11 @@ transaction hash: [0x55ab6fec8f4486e6d38495a6ce59f2bd3948505ca29f88565828c44ff29
 13. Call `setText` function to change the text into `Hello from Vins`. Transaction hash: [0x875573de7196dfc93eda7eebf8c4e835b81da072baa53c6a156beeb6d8191778](https://sepolia.etherscan.io/tx/0x875573de7196dfc93eda7eebf8c4e835b81da072baa53c6a156beeb6d8191778) ![](<Screenshot 2024-08-09 at 23.02.01.png>)
 
 14. Call `transferOwnership` function to transfer ownership to **0xOwenn**'s wallet `0x5073c3929c9BdECd87Cc63068Fd3185F0b6f22A5`. Transaction hash: [0xd70ed8b34d48b119202527ebc38e6f8697886c0ea0b10d01069d6f5cbf200f70](https://sepolia.etherscan.io/tx/0xd70ed8b34d48b119202527ebc38e6f8697886c0ea0b10d01069d6f5cbf200f70) ![](<Screenshot 2024-08-09 at 23.06.36.png>)
+
+
+### GavinOwen interaction
+
+15. Call `helloWorld` function to check the previous text from **Vins** and call `owner` function to check the contract owner ![](<Screenshot 2024-08-10 at 18.36.32.png>)
+
+16. Call `setText` function to change the text into `Hello from GavinOwen` ![](<Screenshot 2024-08-10 at 18.37.26.png>)
+    Transaction hash: [0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0](https://sepolia.etherscan.io/tx/0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0) ![](<Screenshot 2024-08-10 at 19.09.29.png>)
