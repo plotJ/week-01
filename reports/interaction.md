@@ -53,3 +53,5 @@ transaction hash: [0x55ab6fec8f4486e6d38495a6ce59f2bd3948505ca29f88565828c44ff29
 
 16. Call `setText` function to change the text into `Hello from GavinOwen` ![](<Screenshot 2024-08-10 at 18.37.26.png>)
     Transaction hash: [0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0](https://sepolia.etherscan.io/tx/0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0) ![](<Screenshot 2024-08-10 at 19.09.29.png>)
+
+17. Call `transferOwnership` function to transfer ownership to **ErZete**'s wallet `0x9B389E744A464A0C3705Ee47dF9E964B22c950d3`. Transaction hash: [0xdcc9ae7b82c623bfbef47632693a7e8287dc7bdc8f3602a422a1c27dfb7a4ada](https://sepolia.etherscan.io/tx/0xdcc9ae7b82c623bfbef47632693a7e8287dc7bdc8f3602a422a1c27dfb7a4ada) ![](<Screenshot 2024-08-10 at 20.45.53.png>)
