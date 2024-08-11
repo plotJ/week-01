@@ -61,9 +61,9 @@ transaction hash: [0x55ab6fec8f4486e6d38495a6ce59f2bd3948505ca29f88565828c44ff29
 
 1. Create [HelloWorld contract](../contracts/01_HelloWorld.sol) in [remix](https://remix.ethereum.org/).
 
-2. Compile and deploy the contract. The contract address is `[0x4c55528e23E21dc99c79Ee6b4A9b1286a569E8E1](https://sepolia.etherscan.io/address/0x4c55528e23e21dc99c79ee6b4a9b1286a569e8e1)` with the [transaction hash 0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a]([https://sepolia.etherscan.io/tx/0x202f83baf240ac3d0b7745e8ff4440c64e2703162591168b9bb97bf617ec3011](https://sepolia.etherscan.io/address/0x4c55528e23e21dc99c79ee6b4a9b1286a569e8e1))
+2. Compile and deploy the contract. The contract address is `[0x4c55528e23E21dc99c79Ee6b4A9b1286a569E8E1](https://sepolia.etherscan.io/address/0x4c55528e23e21dc99c79ee6b4a9b1286a569e8e1)` with the [transaction hash 0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a](https://sepolia.etherscan.io/address/0x4c55528e23e21dc99c79ee6b4a9b1286a569e8e1))
 3. Change the text with `aasdf!` via `setText function`
-4. Transfer the ownership into Erzete wallet `0x9B389E744A464A0C3705Ee47dF9E964B22c950d3` with the [transaction hash 0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a]([https://sepolia.etherscan.io/tx/0xf7d6fdd9d5500772561a12903b0fbe07c91a8707a6315314dfcca930eae34a4e](https://sepolia.etherscan.io/tx/0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a))
+4. Transfer the ownership into Erzete wallet `0x9B389E744A464A0C3705Ee47dF9E964B22c950d3` with the [transaction hash 0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a](https://sepolia.etherscan.io/tx/0x3f3883502776e9aae20a766a6047df1ffaf4971dcfa31f78fa83258da82f830a))
 5. Receive ownership from Erzete:`0x9B389E744A464A0C3705Ee47dF9E964B22c950d3` with the [transaction hash 0x939386d66e85ef5e17bd2a9b25c870cd2154a2dc4ee213a44be4f087ea4a3698](https://sepolia.etherscan.io/address/0x9b389e744a464a0c3705ee47df9e964b22c950d3))
 
    
