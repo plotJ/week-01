@@ -55,3 +55,15 @@ transaction hash: [0x55ab6fec8f4486e6d38495a6ce59f2bd3948505ca29f88565828c44ff29
     Transaction hash: [0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0](https://sepolia.etherscan.io/tx/0x5f2b6ba30027de11ca25fa5c33a9466d44cae5b24fe3817bbc8769381aa11bd0) ![](<Screenshot 2024-08-10 at 19.09.29.png>)
 
 17. Call `transferOwnership` function to transfer ownership to **ErZete**'s wallet `0x9B389E744A464A0C3705Ee47dF9E964B22c950d3`. Transaction hash: [0xdcc9ae7b82c623bfbef47632693a7e8287dc7bdc8f3602a422a1c27dfb7a4ada](https://sepolia.etherscan.io/tx/0xdcc9ae7b82c623bfbef47632693a7e8287dc7bdc8f3602a422a1c27dfb7a4ada) ![](<Screenshot 2024-08-10 at 20.45.53.png>)
+
+---
+
+### Rama's interaction
+
+18. Load the contract into my Remix and then verify that the ownership has changed using the function `Owner`.
+
+19. Call `helloWorld` function to check previous text from GavinOwen. ![](<Screenshot 2024-08-10 223235.png>)
+
+20. Call `setText` function to change the text from `Hello from GavinOwen` to `GM from Rama <3`. Transaction hash: [0xdae6883ee5f317685c38b98ebccb597ece96e760fd709c1f26ae95fd34e32aa2](https://sepolia.etherscan.io/tx/0xdae6883ee5f317685c38b98ebccb597ece96e760fd709c1f26ae95fd34e32aa2) ![](<Screenshot 2024-08-10 223322.png>) ![](<Screenshot 2024-08-10 223432.png>)
+
+21. Call `transferOwnership` function to transfer ownership to **joosh**'s wallet `0x62cA7B13a0f7F3B4f55aAd7968aD0a78ea2d625C`. Transaction hash: [0x939386d66e85ef5e17bd2a9b25c870cd2154a2dc4ee213a44be4f087ea4a3698](https://sepolia.etherscan.io/tx/0x939386d66e85ef5e17bd2a9b25c870cd2154a2dc4ee213a44be4f087ea4a3698) ![](<Screenshot 2024-08-11 082704.png>)
